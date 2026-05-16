@@ -1,4 +1,4 @@
-# 
+# secure scalping bot for derivatives Addon | risk-management + position-sizing is the best scalping bot for derivatives, featuring risk-management and position-sizing. Smart, fast,
 
 
 
